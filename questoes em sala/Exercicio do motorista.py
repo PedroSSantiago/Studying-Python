@@ -17,11 +17,11 @@ else:
     pontos = 7
 match pontos:
     case 3:
-        print("Multa Leve")
+        print("Multa Leve, 3 pontos na carteira.")
     case 5:
-        print("Multa Media")
+        print("Multa Media, 5 pontos na carteira.")
     case 7:
-        print("Multa Gravíssima")
+        print("Multa Gravíssima, 7 pontos na carteira.")
 
 
 

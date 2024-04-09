@@ -12,7 +12,6 @@ Triângulo Escaleno: três lados diferentes.
 base = float(input("Digite o valor da base: "))
 lado_1 = float(input("Digite o valor do lado 1: "))
 lado_2 = float(input("Digite o valor do lado 2: "))
-
 if base <= lado_1 + lado_2:
     if base == lado_1 == lado_2:
         print("É um triângulo equilátero.")
